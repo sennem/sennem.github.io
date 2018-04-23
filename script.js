@@ -5,11 +5,11 @@ function helloworld(name)
 
 funtion processinfo()
 {
-  var fname = document.GetElementById(firstname).value;
-  var lname = document.GetElementById(lastname).value;
-  var stuid = document.GetElementById(studentid).value;
-  var grade = document.GetElementById(gradenum).value;
+  var fname = document.userinfo.firstname.value;
+  var lname = document.userinfo.lastname.value;
+  var stuid = document.userinfo.studentid.value;
+  var grade = document.userinfo.gradenum.value;
   var drive = document.userinfo.drive.value;
-  var alldata = '<div>Firstname: ' + fname + '</div>' + '<br>' + '<div>Lastname: ' + lname + '</div>' + '<br>' + '<div>StudentID: ' + stuid + '</div>' + '<br>' + '<div>Grade: ' + grade + '</div>' + '<br>' + '<div>Drive: ' + drive + '</div>';
+  var alldata = '<div>First Name: ' + fname + '</div>'+ '<div>Last Name: ' +lname +'<div>' + '<div>ID: ' + stuid + '<div>';
   document.GetElementById(allstudentinfo).innerHTML=alldata;
 }
