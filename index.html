@@ -21,16 +21,17 @@
         StudentID: <input type="text" id="stuid" >
         <br>
         <input type="button" value="Enter" onclick="doit()" >
-        
+
         <div id="output"> </div>
-        
+
         <script>
             function doit()
             {
                 var fn = document.getElementById("fname").value;
                 var ln = document.getElementById("lname").value;
                 var id = document.getElementById("stuid").value;
-                document.getElementById("output").innerHTML = fn + ln + id;
+                var all = '<div>Firstname: ' + fn + '</div>' + '<div>Lastname: ' + ln + '</div>' + '<div>StudentID: ' + id + '</div>'
+                document.getElementById("output").innerHTML += all;
             }
         </script
     </body>
