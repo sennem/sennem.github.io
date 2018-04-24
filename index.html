@@ -13,33 +13,19 @@
         </style>
     </head>
     <body>
-        <h1 class ="city">Mark Senne</h1>
-        <p>During Hack Club's first year I was the Communications Director</p>
-        <p>It is currently Hack Club's second year and I am the Operations Director</p>
-        <img src="https://tctechcrunch2011.files.wordpress.com/2015/04/codecode.jpg">
         <br>
+        Firstname: <input type="text" id="fname" >
+        <br>
+        <input type="button" value="Enter" onclick="doit()" >
         
-        <br>
-        Firstname: <input type="text" id="firstname">
-        <br>
-        Lastname: <input type="text" id="lastname">
-        <br>
-        StudentID: <input type="text" id="studentid">
-        <br>
-        <input type="button" value="Enter Data" onclick="process()">
-        
-        <div id="allstudentinfo"></div>
+        <div id="output"> </div>
         
         <script>
-            function process()
+            function doit()
             {
-                var fn = document.getElementById("fistname").value
-                var ln = document.getElementById("lastname").value
-                var id = document.getElementById("studentid").value
-                var grouped = '<div>Firstname: ' + fn + '</div>' + '<div>Lastname: ' + ln + '</div>' + '<div>StudentID: ' + id + '</div>'
-                
-                document.getElementById("allstudentinfo").innerHTML += grouped;
+                var fn = document.getElementById("fname").value;
+                document.getElementById("output").innerHTML = fn;
             }
-        </script>
+        </script
     </body>
 </html>
