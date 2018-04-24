@@ -2,7 +2,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="style.css" />
-        <script src = "script.js"></script>
+        <!--<script src = "script.js"></script>-->
         <style>
             .city
             {
@@ -17,28 +17,29 @@
         <p>During Hack Club's first year I was the Communications Director</p>
         <p>It is currently Hack Club's second year and I am the Operations Director</p>
         <img src="https://tctechcrunch2011.files.wordpress.com/2015/04/codecode.jpg">
-        <!--<br><button onclick="helloworld('mark')">click me</button>-->
-        <br><input type="button" value="Process" onClick="processinfo();" />
-        <br><form name="userinfo">
-            <br><label>First Name</label>
-            <input type="text" name="firstname" />
-            <br><label>Last Name</label>
-            <input type="text" name="lastname" />
-            <br><label>Student ID</label>
-            <input type="text" name="studentid" />
-            <!--<br><label>Grade Level</label>
-            <select name="Grade" id="gradenum">
-                <option value="fresh">9</option>
-                <option value="soph" selected>10</option>
-                <option value="juni">11</option>
-                <option value="seni">12</option>
-            </select>
-            <br><label>Can you drive</label>
-            <select name="ddrive" id="driveyn" >
-                <option value="candrive">Yes</option>
-                <option value="cantdrive" selected>No</option>
-            </select>-->
-        </form>
+        <br>
+        
+        <br>
+        Firstname: <input type="text" id="firstname">
+        <br>
+        Lastname: <input type="text" id="lastname">
+        <br>
+        StudentID: <input type="text" id="studentid">
+        <br>
+        <input type="button" value="Enter Data" onclick="process()">
+        
         <div id="allstudentinfo"></div>
+        
+        <script>
+            function process()
+            {
+                var fn = document.getElementById("fistname").value
+                var ln = document.getElementById("lastname").value
+                var id = document.getElementById("studentid").value
+                var grouped = '<div>Firstname: ' + fn + '</div>' + '<div>Lastname: ' + ln + '</div>' + '<div>StudentID: ' + id + '</div>'
+                
+                document.getElementById("allstudentinfo").innerHTML += grouped;
+            }
+        </script>
     </body>
 </html>
