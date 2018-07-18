@@ -2,22 +2,49 @@
 <html>
     <head>
         <link rel="stylesheet" href="style.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-pink.min.css">
+        <script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        
+        <style>
+            .aboutmeimg{
+                height: 150px;
+                width: 150px;
+                border-radius: 50%;
+                border: 5 solid #a81419;
+            }
+        </style>
     </head>
     <body>
+        
+        <!-- Tab bar -->
         <div class="mdl-layout mdl-js-layout">
             <header class="mdl-layout__header">
                 <div class="mdl-layout-icon"></div>
                 <div class="mdl-layout__header-row">
-                  <span class="mdl-layout__title">Testing Text</span>
+                  <span class="mdl-layout__title">Sample1</span>
                   <div class="mdl-layout-spacer"></div>
                   <nav class="mdl-navigation">
-                    <a class="mdl-navigation__link" href="#about-tab">abome</a>
+                    <a class="mdl-navigation__link" href="#aboutme-tab">about me</a>
                     <a class="mdl-navigation__link" href="#mywork-tab">my work</a>
                     <a class="mdl-navigation__link" href="#contactme-tab">contact me</a>
                   </nav>
                 </div>
             </header>
         </div>
+        
+        <div id="aboutme-tab">
+            <img class="aboutmeimg" src="https://camp.masonhackclub.com/assets/images/leaders/mark.jpg" />
+        </div>
+         <div id="mywork-tab">
+             <p>My work</p>
+        </div>
+         <div id="contactme-tab">
+             <p>Contact me</p>
+        </div>
+        
+        
     </body>
 </html>
 
