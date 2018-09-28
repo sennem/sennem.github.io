@@ -1,4 +1,4 @@
-.iconlinks{
+.landingicons{
   text-align: center;
   font-size: 40px;
 }
@@ -6,6 +6,9 @@
   height: 100vh;
   width: 100vw;
   text-align: center;
-  background: url("https://media.licdn.com/dms/image/C4E16AQFWNkqZnxKtrw/profile-displaybackgroundimage-shrink_350_1400/0?e=1543449600&v=beta&t=P6kX-TZabdAYYMlp0l9P6jvuZz1nxEOp-mHit1ruJBY") no-repeat fixed;
+  background: url("https://cdn3.f-cdn.com/contestentries/362065/18471655/56d4fa32d1d02_thumb900.jpg") no-repeat fixed;
   background-size: cover;
+}
+#landingname{
+  font: white;
 }
