@@ -1,8 +1,7 @@
 .linkedin{
   text-align: center;
   background-color: blue;
-  height:40px;
-  width:40px;
+  font-size: 40px;
 }
 #landing{
   height: 100vh;
