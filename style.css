@@ -8,7 +8,8 @@
   text-align: center;
   background: url("https://cdn3.f-cdn.com/contestentries/362065/18471655/56d4fa32d1d02_thumb900.jpg") no-repeat fixed;
   background-size: cover;
+  color: white;
 }
 #landingname{
-  font: white;
+  color: white;
 }
