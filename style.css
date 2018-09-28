@@ -5,6 +5,6 @@
 #landing{
   height: 100vh;
   width: 100vw;
-  background-image: url(https://media.licdn.com/dms/image/C4E16AQFWNkqZnxKtrw/profile-displaybackgroundimage-shrink_350_1400/0?e=1543449600&v=beta&t=P6kX-TZabdAYYMlp0l9P6jvuZz1nxEOp-mHit1ruJBY);
+  background-image: url("https://media.licdn.com/dms/image/C4E16AQFWNkqZnxKtrw/profile-displaybackgroundimage-shrink_350_1400/0?e=1543449600&v=beta&t=P6kX-TZabdAYYMlp0l9P6jvuZz1nxEOp-mHit1ruJBY");
   text-align: center;
 }
