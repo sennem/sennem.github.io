@@ -3,6 +3,16 @@
   font-size: 60px;
   margin: 3px;
 }
+.inlinepic{
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+}
+.inlinetext{
+  display: inline-block;
+  height: 150px;
+  width: 300px;
+}
 #landing{
   height: 100vh;
   width: 100vw;
