@@ -15,7 +15,8 @@
   height: 150px;
   width: auto;
   font-size: 15px;
-  margin-left: 65%;
+  padding: 0;
+  margin-left: 10px;
 }
 #landing{
   height: 100vh;
