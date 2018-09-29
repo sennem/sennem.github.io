@@ -3,20 +3,34 @@
   font-size: 60px;
   margin: 3px;
 }
-.inlinepic{
+.inlinepicleft{
   display: inline-block;
   width: 150px;
   height: 150px;
   border-radius: 25px;
   margin-left: 20%;
 }
-.inlinetext{
+.inlinetextleft{
   display: inline-block;
   height: 150px;
   width: auto;
   font-size: 15px;
   padding: 0;
   margin-left: 60px;
+}.inlinepicright{
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 25px;
+  margin-right: 20%;
+}
+.inlinetextright{
+  display: inline-block;
+  height: 150px;
+  width: auto;
+  font-size: 15px;
+  padding: 0;
+  margin-right: 60px;
 }
 #landing{
   height: 100vh;
