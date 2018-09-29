@@ -4,8 +4,10 @@
   margin: 3px;
 }
 .inlinepicleft{
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   display: inline-block;
   width: 150px;
   height: 150px;
@@ -13,8 +15,10 @@
   margin-left: 20%;
 }
 .inlinetextleft{
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   display: inline-block;
   height: 150px;
   width: auto;
@@ -22,8 +26,10 @@
   padding: 0;
   margin-left: 60px;
 }.inlinepicright{
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   display: inline-block;
   width: 150px;
   height: 150px;
@@ -31,8 +37,10 @@
   margin-left: 60px;
 }
 .inlinetextright{
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   display: inline-block;
   height: 150px;
   width: auto;
