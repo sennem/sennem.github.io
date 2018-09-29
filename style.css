@@ -13,8 +13,8 @@
 .inlinetext{
   display: inline-block;
   height: 150px;
-  width: 300px;
-  font-size: 20px;
+  width: auto;
+  font-size: 15px;
   margin-left: 65%;
 }
 #landing{
