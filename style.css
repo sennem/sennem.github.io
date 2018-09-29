@@ -22,7 +22,7 @@
   width: 150px;
   height: 150px;
   border-radius: 25px;
-  margin-right: 20%;
+  margin-left: 60px;
 }
 .inlinetextright{
   display: inline-block;
@@ -30,7 +30,7 @@
   width: auto;
   font-size: 15px;
   padding: 0;
-  margin-right: 60px;
+  margin-left: 60vm;
 }
 #landing{
   height: 100vh;
