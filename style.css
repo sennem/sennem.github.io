@@ -12,7 +12,6 @@
   width: 15vw;
   height: 50vh;
   border-radius: 25px;
-  margin-left: 20%;
 }
 .inlinetextleft{
   margin-top: 0px;
@@ -24,7 +23,6 @@
   height: 50vh;
   font-size: 15px;
   padding: 0;
-  margin-left: 60px;
 }.inlinepicright{
   margin-top: 0px;
   margin-bottom: 0px;
@@ -34,7 +32,6 @@
   width: 15vw;
   height: 50vh;
   border-radius: 25px;
-  margin-left: 60px;
 }
 .inlinetextright{
   margin-top: 0px;
@@ -46,7 +43,6 @@
   height: 50vh;
   font-size: 15px;
   padding: 0;
-  margin-left: 60vw;
 }
 .row1inlnie{
   display: inline-block;
