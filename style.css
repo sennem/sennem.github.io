@@ -2,7 +2,6 @@
   text-align: center;
   font-size: 60px;
   margin: 3px;
-  color: white;
 }
 .inlinepicleft{
   margin-top: 0px;
@@ -10,9 +9,10 @@
   padding-top: 0px;
   padding-bottom: 0px;
   display: inline-block;
-  width: 20vw;
-  height: 50vh;
+  width: 150px;
+  height: 150px;
   border-radius: 25px;
+  margin-left: 20%;
 }
 .inlinetextleft{
   margin-top: 0px;
@@ -20,19 +20,21 @@
   padding-top: 0px;
   padding-bottom: 0px;
   display: inline-block;
-  width: 20vw;
-  height: 50vh;
+  height: 150px;
+  width: auto;
   font-size: 15px;
   padding: 0;
+  margin-left: 60px;
 }.inlinepicright{
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
   display: inline-block;
-  width: 20vw;
-  height: 50vh;
+  width: 150px;
+  height: 150px;
   border-radius: 25px;
+  margin-left: 60px;
 }
 .inlinetextright{
   margin-top: 0px;
@@ -40,10 +42,11 @@
   padding-top: 0px;
   padding-bottom: 0px;
   display: inline-block;
-  width: 20vw;
-  height: 50vw;
+  height: 150px;
+  width: auto;
   font-size: 15px;
   padding: 0;
+  margin-left: 60vw;
 }
 #landing{
   height: 100vh;
