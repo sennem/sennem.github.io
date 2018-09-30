@@ -10,7 +10,7 @@
   padding-bottom: 0px;
   display: inline-block;
   width: 15vw;
-  height: 50vh;
+  height: 35vh;
   border-radius: 25px;
 }
 .inlinetextleft{
@@ -20,7 +20,7 @@
   padding-bottom: 0px;
   display: inline-block;
   width: 15vw;
-  height: 50vh;
+  height: 35vh;
   font-size: 15px;
   padding: 0;
 }.inlinepicright{
@@ -30,7 +30,7 @@
   padding-bottom: 0px;
   display: inline-block;
   width: 15vw;
-  height: 50vh;
+  height: 35vh;
   border-radius: 25px;
 }
 .inlinetextright{
@@ -40,14 +40,9 @@
   padding-bottom: 0px;
   display: inline-block;
   width: 15vw;
-  height: 50vh;
+  height: 35vh;
   font-size: 15px;
   padding: 0;
-}
-.row1inlnie{
-  display: inline-block;
-  width: 100vw;
-  height: 50vw;
 }
 #landing{
   height: 100vh;
