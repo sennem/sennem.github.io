@@ -1,6 +1,7 @@
 .landingicons{
   text-align: center;
   font-size: 60px;
+  font-size: 4.6875vw;
   margin: 3px;
 }
 .inlinepicleft{
@@ -61,10 +62,12 @@
   font-size: 9.375vw;
   color: white;
   font-weight: bold;
-  padding-top: 18%;
+  padding-top: 5%;
 }
 #landingdesc{
   color:white;
   font-size: 25px;
   font-size: 1.95vw;
+  padding-bottom: 0px;
+  padding-top: 0px;
 }
