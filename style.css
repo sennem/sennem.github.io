@@ -1,4 +1,4 @@
-.landingicons{
+.landingicon{
   text-align: center;
   font-size: 60px;
   font-size: 4.6875vw;
@@ -69,5 +69,8 @@
   font-size: 25px;
   font-size: 1.95vw;
   padding-bottom: 0px;
-  padding-top: 0px;
+  padding-top: 2vh;
+}
+#landingicon{
+  padding-top: 20vh;
 }
