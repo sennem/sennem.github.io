@@ -57,9 +57,9 @@
   background-size: cover;
   color: white;
 }
-#landingname{
-  font-size: 120px;
-  font-size: 9.375vw;
+.landingname{
+  /*font-size: 120px;*/
+  font-size: 10vw;
   color: white;
   font-weight: bold;
   padding-top: 10vh;
