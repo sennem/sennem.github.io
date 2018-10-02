@@ -80,3 +80,13 @@
 .sections{
   height: 20vh;
 }
+#footer {
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+    text-align: center;
+    color: white;
+    background-color: #513636;
+}
