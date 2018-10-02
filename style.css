@@ -60,7 +60,7 @@
 #bodyone{
   height: 100vh;
   width: 100vw;
-  background: url("C:/Users/Mark Senne/Downloads/IMG_1266.jpg") no-repeat fixed;
+  background: url("./IMG_1266.jpg") no-repeat fixed;
   background-size: cover;
 }
 .landingname{
