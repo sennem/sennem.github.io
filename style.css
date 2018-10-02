@@ -57,11 +57,9 @@
 }
 #bodyone{
   margin-top: 10vh;
+  padding-top: 10vh;
   height: 100vh;
   width: 100vw;
-  border-style: solid;
-  border-color: black;
-  background-size: cover;
 }
 .landingname{
   /*font-size: 120px;*/
