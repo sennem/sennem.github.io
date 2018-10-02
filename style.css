@@ -25,7 +25,7 @@
   width: auto;
   font-size: 15px;
   padding: 0;
-  margin-left: 20%;
+  margin-left: 60px;
 }.inlinepicright{
   margin-top: 0px;
   margin-bottom: 0px;
@@ -35,7 +35,7 @@
   width: 150px;
   height: 20vh;
   border-radius: 25px;
-  margin-left: 20%;
+  margin-left: 60px;
 }
 .inlinetextright{
   margin-top: 0px;
@@ -47,7 +47,7 @@
   width: auto;
   font-size: 15px;
   padding: 0;
-  margin-left: 20%;
+  margin-left: 60vw;
 }
 #landing{
   height: 100vh;
