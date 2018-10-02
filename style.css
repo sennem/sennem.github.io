@@ -11,7 +11,7 @@
   padding-bottom: 0px;
   display: inline-block;
   width: 150px;
-  height: 150px;
+  height: 20vh;
   border-radius: 25px;
   margin-left: 20%;
 }
@@ -21,7 +21,7 @@
   padding-top: 0px;
   padding-bottom: 0px;
   display: inline-block;
-  height: 150px;
+  height: 20vh;
   width: auto;
   font-size: 15px;
   padding: 0;
@@ -33,7 +33,7 @@
   padding-bottom: 0px;
   display: inline-block;
   width: 150px;
-  height: 150px;
+  height: 20vh;
   border-radius: 25px;
   margin-left: 60px;
 }
@@ -43,7 +43,7 @@
   padding-top: 0px;
   padding-bottom: 0px;
   display: inline-block;
-  height: 150px;
+  height: 20vh;
   width: auto;
   font-size: 15px;
   padding: 0;
@@ -60,7 +60,7 @@
 #bodyone{
   height: 100vh;
   width: 100vw;
-  background: url("./IMG_1266.jpg") no-repeat fixed;
+  background: url("https://coolbackgrounds.io/images/backgrounds/ranger-993af1f3.png") no-repeat fixed;
   background-size: cover;
 }
 .landingname{
@@ -78,4 +78,6 @@
 }
 #landingicons{
   padding-top: 20vh;
+  height: 100vh;
+  width: 100vw;
 }
