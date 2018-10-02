@@ -57,7 +57,7 @@
 #bodyone{
   height: 100vh;
   width: 100vw;
-  background-color: rgb(255, 255, 255, .6);
+  background-color: rgb(255, 255, 255, .8);
 }
 .landingname{
   /*font-size: 120px;*/
