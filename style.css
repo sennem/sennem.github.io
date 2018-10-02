@@ -80,6 +80,7 @@
 }
 .sections{
   height: 20vh;
+  opacity: 1.0;
 }
 #footer {
     clear: both;
