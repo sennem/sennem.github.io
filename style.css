@@ -57,7 +57,7 @@
   /*http://zyzixun.net/data/out/153/4179955-simple-wallpapers.png*/
   /*http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png tron */
   /*https://png.pngtree.com/thumb_back/fw800/back_pic/04/48/50/00585a3568a0a7d.jpg*/
-  color: black;
+  color: #774903;
 }
 #bodyone{
   height: 100vh;
@@ -67,11 +67,11 @@
 .landingname{
   /*font-size: 120px;*/
   font-size: 10vw;
-  color: black;
+  color: #774903;
   font-weight: bold;
 }
 #landingdesc{
-  color:black;
+  color: #774903;
   font-size: 25px;
   font-size: 1.95vw;
   padding-bottom: 0px;
