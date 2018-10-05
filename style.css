@@ -53,9 +53,10 @@
   text-align: center;
   /*background: url("http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png") no-repeat fixed;*/
   background-image: url('https://wallpapersprime.com/wp-content/uploads/Iron-Man-minimalistic-wallpaper-800x500.jpg');
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-position: center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
   /*https://hdqwalls.com/download/minimalist-mountains-black-and-white-ap-1920x1080.jpg*/
   /*https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg*/
   /*http://zyzixun.net/data/out/153/4179955-simple-wallpapers.png*/
