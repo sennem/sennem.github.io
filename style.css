@@ -51,7 +51,7 @@
   height: 100vh;
   width: 100vw;
   text-align: center;
-  /*background: url("https://cdn3.f-cdn.com/contestentries/362065/18471655/56d4fa32d1d02_thumb900.jpg") no-repeat fixed;*/
+  background: url("http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png") no-repeat fixed;
   /*https://hdqwalls.com/download/minimalist-mountains-black-and-white-ap-1920x1080.jpg*/
   /*https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg*/
   /*http://zyzixun.net/data/out/153/4179955-simple-wallpapers.png*/
@@ -62,7 +62,8 @@
 #bodyone{
   height: 115vh;
   width: 100vw;
-  background-color: rgb(255, 255, 255, .8);
+  /*background-color: rgb(255, 255, 255, .8);*/
+  background-color: rgb(255, 255, 255, 1);
 }
 .landingname{
   /*font-size: 120px;*/
