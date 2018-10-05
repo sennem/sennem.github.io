@@ -51,7 +51,11 @@
   height: 100vh;
   width: 100vw;
   text-align: center;
-  background: url("http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png") no-repeat fixed;
+  /*background: url("http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png") no-repeat fixed;*/
+  background-image: url('http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center; 
   /*https://hdqwalls.com/download/minimalist-mountains-black-and-white-ap-1920x1080.jpg*/
   /*https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg*/
   /*http://zyzixun.net/data/out/153/4179955-simple-wallpapers.png*/
