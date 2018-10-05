@@ -52,7 +52,7 @@
   width: 100vw;
   text-align: center;
   /*background: url("http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png") no-repeat fixed;*/
-  background-image: url('http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png');
+  background-image: url('https://wallpapersprime.com/wp-content/uploads/Iron-Man-minimalistic-wallpaper-800x500.jpg');
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-position: center; 
@@ -68,8 +68,9 @@
   height: 115vh;
   width: 100vw;
   /*background-color: rgb(255, 255, 255, .8);*/
-  background: url('http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png') no-repeat fixed;
-  background-size: cover;
+  /*background: url('http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png') no-repeat fixed;
+  background-size: cover;*/
+  background-color: rgb(255,255,255,1);
 }
 .landingname{
   /*font-size: 120px;*/
