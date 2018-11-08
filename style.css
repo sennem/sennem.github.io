@@ -71,13 +71,9 @@
 #bodyone{
   height: 115vh;
   width: 100vw;
-  /*background-color: rgb(255, 255, 255, .8);*/
-  /*background: url('http://www.modafinilsale.com/data/out/532/231510061-tron-wallpaper-4k.png') no-repeat fixed;
-  background-size: cover;*/
   background-color: rgb(255,255,255,1);
 }
 .landingname{
-  /*font-size: 120px;*/
   font-size: 10vw;
   color: #774903;
   font-weight: bold;
